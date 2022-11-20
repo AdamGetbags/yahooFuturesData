@@ -10,7 +10,7 @@ import yahoo_fin.stock_info as si
 import pandas as pd
 
 # general futures ticker // could be continuous?
-ticker = "HG=F"
+ticker = "ES=F"
                    
 # specific contract ticker                   
 # ticker = "ESZ23.CME"
